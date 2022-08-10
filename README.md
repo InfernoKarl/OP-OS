@@ -1,4 +1,5 @@
 # One Piece Open Seas
+https://www.roblox.com/games/2504590032/One-Piece-Open-Seas
 
 ### [Chest Autofarm](/Scripts/chestfarm.lua) <sub><sup>`v1.0.0` *(Updated: 08/08/2022)*</sup></sub>
 Working chest autofarm for One Piece Open Seas, may have to re-execute if you die due to frostbite or are killed by the weird snow guy, working as of *08/08/2022*
