@@ -8,4 +8,4 @@ Working chest autofarm for One Piece Open Seas, may have to re-execute if you di
 Really crap devil fruit esp that does not update itself, will add that eventually; re-execute every now and then to see newer fruits, working as of *08/08/2022*
 
 ### [Anti Freeze](/Scripts/antifreeze.lua) <sub><sup>`v1.0.0` *(Updated: 11/08/2022)*</sup></sub>
-Prevents you from freezing in the Tundra. Works really well paired with [Chest Autofarm](/Scripts/chestfarm.lua). Working as of *11/08/2022*
+Prevents you from freezing in the Tundra. Working as of *11/08/2022*
